@@ -1,0 +1,34 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}
+\@LN@changevadjust \vspace {1em}
+\contentsline {chapter}{Abstract}{iii}{dummy.2}
+\@LN@changevadjust \vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iv}{dummy.3}
+\@LN@changevadjust \vspace {1em}
+\contentsline {chapter}{List of Figures}{vii}{dummy.5}
+\contentsline {chapter}{List of Tables}{viii}{dummy.7}
+\contentsline {chapter}{Abbreviations}{ix}{dummy.9}
+\contentsline {chapter}{Physical Constants}{x}{dummy.12}
+\contentsline {chapter}{Symbols}{xi}{dummy.15}
+\@LN@changevadjust \vspace {2em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.18}
+\contentsline {section}{\numberline {1.1}A Section}{1}{section.19}
+\contentsline {subsection}{\numberline {1.1.1}A Subsection}{1}{subsection.20}
+\contentsline {section}{\numberline {1.2}Another Section}{2}{section.21}
+\contentsline {chapter}{\numberline {2}Theory}{3}{chapter.22}
+\contentsline {section}{\numberline {2.1}The Standard Model}{3}{section.23}
+\contentsline {section}{\numberline {2.2}Beyond The Standard Model}{3}{section.24}
+\contentsline {section}{\numberline {2.3}Dark Matter}{3}{section.25}
+\contentsline {chapter}{\numberline {3}The Large Hadron Collider and The ATLAS detector}{4}{chapter.26}
+\contentsline {section}{\numberline {3.1}The Large Hadron Collider}{4}{section.27}
+\contentsline {section}{\numberline {3.2}The ATLAS detector}{4}{section.28}
+\contentsline {chapter}{\numberline {4}The missing transverse momentum measurement ($E_{T}^{miss}$) and performance}{5}{chapter.29}
+\contentsline {section}{\numberline {4.1}introduction of $E_{T}^{miss}$}{5}{section.30}
+\contentsline {section}{\numberline {4.2}The Calorimeter-based $E_{T}^{miss}$}{5}{section.31}
+\contentsline {section}{\numberline {4.3}The Track-based $E_{T}^{miss}$ and Track-based $E_{T}^{miss}$ soft term}{5}{section.32}
+\contentsline {chapter}{\numberline {5}Searching for additional heavy Higgs boson in $H\rightarrow ZZ \rightarrow \ell \ell +\nu \nu $ channel}{6}{chapter.33}
+\contentsline {chapter}{\numberline {6}Searching for the Higgs Boson invisible decay signal in Higgs boson associated Z boson production mode}{7}{chapter.34}
+\contentsline {chapter}{\numberline {7}Summary and Prospect}{8}{chapter.35}
+\@LN@changevadjust \vspace {2em}
+\contentsline {chapter}{\numberline {A}An Appendix}{9}{appendix.36}
+\@LN@changevadjust \vspace {2em}
+\contentsline {chapter}{Bibliography}{11}{dummy.37}
